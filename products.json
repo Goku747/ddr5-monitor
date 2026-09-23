@@ -1,34 +1,998 @@
 [
   {
-    "id": "replace-ddr5-8gb-product",
-    "name": "Replace with DDR5 8GB product name",
-    "platform": "Replace retailer",
-    "capacity": "8GB",
-    "url": "https://example.com/replace-product-url",
+    "id": "gskill-ripjaws-s5-16gb-f5-6000j3648d16gx1-rs5k",
+    "name": "G.Skill Ripjaws S5 Matte Black 16GB 6000MHz CL36-48 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/gskill-ram-ripjaws-s5-16gb-ddr5-f5-6000j3648d16gx1-rs5k/ram",
     "currency": "INR",
-    "allowed_domains": ["example.com"],
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
     "respect_robots_txt": true,
-    "name_selectors": ["h1"],
-    "price_selectors": ["[itemprop='price']", ".price"],
-    "in_stock_selectors": [".availability", ".stock"],
-    "out_of_stock_selectors": [".availability", ".stock"],
-    "in_stock_phrases": ["in stock", "add to cart"],
-    "out_of_stock_phrases": ["out of stock", "currently unavailable", "sold out"]
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
   },
   {
-    "id": "replace-ddr5-16gb-product",
-    "name": "Replace with DDR5 16GB product name",
-    "platform": "Replace retailer",
+    "id": "kingston-fury-renegade-16gb-kf560c32rsa-16",
+    "name": "Kingston Fury Renegade RGB XMP 16GB (16GBx1) DDR5 6000MHz Desktop RAM (Black)",
+    "platform": "MDComputers",
     "capacity": "16GB",
-    "url": "https://example.com/replace-second-product-url",
+    "url": "https://mdcomputers.in/product/kingston-ram-fury-renegade-16gb-ddr5-kf560c32rsa-16/ram",
     "currency": "INR",
-    "allowed_domains": ["example.com"],
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
     "respect_robots_txt": true,
-    "name_selectors": ["h1"],
-    "price_selectors": ["[itemprop='price']", ".price"],
-    "in_stock_selectors": [".availability", ".stock"],
-    "out_of_stock_selectors": [".availability", ".stock"],
-    "in_stock_phrases": ["in stock", "add to cart"],
-    "out_of_stock_phrases": ["out of stock", "currently unavailable", "sold out"]
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "kingston-fury-renegade-16gb-kf560c32rwa-16",
+    "name": "Kingston Fury Renegade RGB XMP 16GB (16GBx1) DDR5 6000MHz Desktop RAM (White)",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/kingston-ram-fury-renegade-16gb-ddr5-kf560c32rwa-16/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-rgb-16gb-ax5u6000c4016g-clarwh",
+    "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL40 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c4016g-clarwh/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cbk",
+    "name": "TeamGroup T-Force Vulcan 16GB 5200MHz DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/ram/teamgroup-ram-t-force-vulan-flbd516g5200hc40cbk",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cdc016",
+    "name": "TeamGroup T-Force Vulcan 16GB (8GBx2) DDR5 5200MHz Desktop RAM (Black)",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/ram/teamgroup-ram-t-force-vulcan-flbd516g5200hc40cdc016",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-16gb-ax5u6000c4816g-clabk",
+    "name": "Adata XPG Lancer 16GB 6000MHz CL48 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c4816g-clabk/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "kingston-fury-beast-16gb-kf560c40bba-16",
+    "name": "Kingston Fury Beast RGB 16GB (16GBx1) DDR5 6000MHz Black Desktop RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/kingston-ram-fury-beast-16gb-ddr5-kf560c40bba-16/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-16gb-ad5u480016g-s",
+    "name": "Adata 16GB (16GBx1) DDR5 4800MHz",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-16gb-ddr5-4800mhz-black-ad5u480016g-s/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-neon-16gb-ax5u6000c3016g-clanrsg",
+    "name": "ADATA XPG Lancer Neon RGB 16GB 6000MHz CL30 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-neon-16gb-ddr5-ax5u6000c3016g-clanrsg/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-rgb-white-16gb-ax5u6000c3016g-clarwh",
+    "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL30 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c3016g-clarwh/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "kingston-value-16gb-kvr48u40bs8-16",
+    "name": "Kingston Value 16GB (16GBx1) DDR5 4800MHz RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/kingston-ram-value-16gb-ddr5-kvr48u40bs8-16/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-16gb-ax5u6000c3016g-clabk",
+    "name": "ADATA XPG Lancer 16GB 6000MHz CL30 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c3016g-clabk/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-rgb-16gb-ax5u6000c3016g-clarbk",
+    "name": "Adata XPG Lancer RGB 16GB 6000MHz CL30 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c3016g-clarbk/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "gskill-ripjaws-16gb-f5-5200s3838a16gx1-rs",
+    "name": "G.Skill Ripjaws 16GB (16GBx1) DDR5 5200MHz Laptop RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/g-skill-ram-ripjaws-16gb-ddr5-f5-5200s3838a16gx1-rs/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "hp-x1-16gb-b7rz9aa-acj",
+    "name": "HP X1 16GB 5600MHz CL46 DDR5 Laptop RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/hp-ram-x1-16gb-ddr5-b7rz9aa-acj/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "evm-16gb-evmt16g6000u88p",
+    "name": "EVM 16GB 6000Mhz DDR5 Ram",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/evm-ram-16gb-ddr5-evmt16g6000u88p/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "crucial-16gb-cb16gu4800",
+    "name": "Crucial 16GB 4800MHz CL40 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/crucial-ram-cb16gu4800/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "adata-xpg-lancer-white-16gb-ax5u6000c4016g-clawh",
+    "name": "Adata XPG Lancer White 16GB 6000MHz CL40 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/adata-ram-xpg-lancer-16gb-ddr5-ax5u6000c4016g-clawh/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "crucial-pro-oc-white-16gb-cp16g60c36u5w",
+    "name": "Crucial Pro OC White 16GB 6000MHz CL36 DDR5 RAM",
+    "platform": "MDComputers",
+    "capacity": "16GB",
+    "url": "https://mdcomputers.in/product/crucial-ram-pro-oc-16gb-ddr5-cp16g60c36u5w/ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title",
+      "[itemprop='name']"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new",
+      ".price .ins .amount",
+      ".price .amount"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability",
+      ".product-stock",
+      "#product"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available",
+      "add to cart"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "crucial-ddr5-8gb-cb8gu4800",
+    "name": "Crucial DDR5 8GB 4800MHz",
+    "platform": "MDComputers",
+    "capacity": "8GB",
+    "url": "https://mdcomputers.in/product/crucial-ram-cb8gu4800/ram/ddr5-ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
+  },
+  {
+    "id": "corsair-ddr5-8gb-cmsx8gx5m1a4800c40",
+    "name": "Corsair Vengeance DDR5 8GB 4800MHz CL40 Laptop Ram",
+    "platform": "MDComputers",
+    "capacity": "8GB",
+    "url": "https://mdcomputers.in/product/corsair-ram-vengeance-cmsx8gx5m1a4800c40/ram/ddr5-ram",
+    "currency": "INR",
+    "allowed_domains": [
+      "mdcomputers.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+      "h1",
+      ".product-title"
+    ],
+    "price_selectors": [
+      "[itemprop='price']",
+      ".price-new",
+      ".product-price-new"
+    ],
+    "in_stock_selectors": [
+      ".product-info",
+      ".availability"
+    ],
+    "out_of_stock_selectors": [
+      ".product-info",
+      ".availability"
+    ],
+    "in_stock_phrases": [
+      "in stock",
+      "available"
+    ],
+    "out_of_stock_phrases": [
+      "out of stock",
+      "sold out",
+      "currently unavailable"
+    ]
   }
 ]
