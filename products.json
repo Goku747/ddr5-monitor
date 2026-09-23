@@ -1,0 +1,34 @@
+[
+  {
+    "id": "replace-ddr5-8gb-product",
+    "name": "Replace with DDR5 8GB product name",
+    "platform": "Replace retailer",
+    "capacity": "8GB",
+    "url": "https://example.com/replace-product-url",
+    "currency": "INR",
+    "allowed_domains": ["example.com"],
+    "respect_robots_txt": true,
+    "name_selectors": ["h1"],
+    "price_selectors": ["[itemprop='price']", ".price"],
+    "in_stock_selectors": [".availability", ".stock"],
+    "out_of_stock_selectors": [".availability", ".stock"],
+    "in_stock_phrases": ["in stock", "add to cart"],
+    "out_of_stock_phrases": ["out of stock", "currently unavailable", "sold out"]
+  },
+  {
+    "id": "replace-ddr5-16gb-product",
+    "name": "Replace with DDR5 16GB product name",
+    "platform": "Replace retailer",
+    "capacity": "16GB",
+    "url": "https://example.com/replace-second-product-url",
+    "currency": "INR",
+    "allowed_domains": ["example.com"],
+    "respect_robots_txt": true,
+    "name_selectors": ["h1"],
+    "price_selectors": ["[itemprop='price']", ".price"],
+    "in_stock_selectors": [".availability", ".stock"],
+    "out_of_stock_selectors": [".availability", ".stock"],
+    "in_stock_phrases": ["in stock", "add to cart"],
+    "out_of_stock_phrases": ["out of stock", "currently unavailable", "sold out"]
+  }
+]
