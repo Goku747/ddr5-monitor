@@ -460,7 +460,7 @@
     ]
   },
   {
-    "id": "mdcomputers-adata-xpg-lancer-rgb-white-16gb-ax5u6000c3016g-clarwh",
+    "id": "mdcomputers-adata-ax5u6000c3016g-clarwh",
     "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -552,7 +552,7 @@
     ]
   },
   {
-    "id": "mdcomputers-adata-xpg-lancer-16gb-ax5u6000c3016g-clabk",
+    "id": "mdcomputers-adata-ax5u6000c3016g-clabk",
     "name": "ADATA XPG Lancer 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "id": "mdcomputers-adata-xpg-lancer-rgb-16gb-ax5u6000c3016g-clarbk",
+    "id": "mdcomputers-adata-rgb-ax5u6000c3016g-clarbk",
     "name": "Adata XPG Lancer RGB 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
