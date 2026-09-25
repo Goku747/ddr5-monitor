@@ -994,5 +994,485 @@
       "sold out",
       "currently unavailable"
     ]
+  },
+  {
+    "id":"corsair-vengeance-16gb-cmk16gx5m1b5600c40",
+    "name":"Corsair Vengeance 16GB (1x16GB) DDR5 5600MHz C40 Memory",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-16gb-1x16gb-ddr5-dram-5600mhz-c40-memory-cmk16gx5m1b5600c40/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"corsair-rgb-16gb-cmh16gx5m1b5200c40",
+    "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz C40",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-rgb-16gb-16gbx1-ddr5-5200mhz-c40-memory-kit-cmh16gx5m1b5200c40/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"corsair-rgb-16gb-cmh16gx5m1b5200z40",
+    "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz CL40",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-rgb-16gb-16gbx1-ddr5-5200mhz-cl40-memory-kit-cmh16gx5m1b5200z40/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"corsair-rgb-16gb-cmh16gx5m1b5600c40",
+    "name":"Corsair Vengeance RGB Black 16GB 5600MHz DDR5",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/corsair-vengeance-rgb-black-16gb-5600mhz-ddr5-memory-kit-cmh16gx5m1b5600c40/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"crucial-16gb-cb16gu4800",
+    "name":"Crucial 16GB DDR5 4800MHz Desktop Memory CB16GU4800",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/crucial-16gb-1x16gb-ddr5-4800mhz-memory-ct16g48c40u5/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"crucial-16gb-cb16gs4800",
+    "name":"Crucial 16GB DDR5 4800MHz CL40 Laptop Memory",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/crucial-16gb-ddr5-4800mhz-cl40-laptop-memory-ct16g48c40s5/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"crucial-pro-16gb-cp16g60c36u5w",
+    "name":"Crucial Pro Overclocking 16GB DDR5 6000MHz White",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/crucial-pro-overclocking-16gb-ddr5-6000mhz-udimm-desktop-memory-white-cp16g60c36u5w/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id":"gskill-ripjaws-s5-16gb-f5-6000j3636f16gx1-rs5k",
+    "name":"G.Skill Ripjaws S5 16GB DDR5 6000MHz",
+    "platform":"PrimeABGB",
+    "capacity":"16GB",
+    "url":"https://www.primeabgb.com/online-price-reviews-india/g-skill-ripjaws-s5-16gb-16gbx1-ddr5-6000mhz-memory-f5-6000j3636f16gx1-rs5k/",
+    "currency":"INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id": "crucial-8gb-ct8g48c40u5",
+    "name": "Crucial 8GB (1x8GB) DDR5 4800MHz Memory CT8G48C40U5",
+    "platform": "PrimeABGB",
+    "capacity": "8GB",
+    "url": "https://www.primeabgb.com/online-price-reviews-india/crucial-8gb-1x8gb-ddr5-4800mhz-memory-ct8g48c40u5/",
+    "currency": "INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id": "crucial-8gb-ct8g56c46u5",
+    "name": "Crucial 8GB (1x8GB) DDR5 5600MHz Desktop Memory CT8G56C46U5",
+    "platform": "PrimeABGB",
+    "capacity": "8GB",
+    "url": "https://www.primeabgb.com/online-price-reviews-india/crucial-8gb-1x8gb-ddr5-5600mhz-desktop-memory-ct8g56c46u5/",
+    "currency": "INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id": "crucial-8gb-laptop-ct8g48c40s5",
+    "name": "Crucial 8GB (8GBx1) DDR5 4800MHz Laptop Memory CT8G48C40S5",
+    "platform": "PrimeABGB",
+    "capacity": "8GB",
+    "url": "https://www.primeabgb.com/online-price-reviews-india/ct8g48c40s5/",
+    "currency": "INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
+  },
+  {
+    "id": "kingston-valueram-8gb-kvr56u46bs6-8",
+    "name": "Kingston ValueRAM 8GB DDR5 Desktop Memory 5600MHz KVR56U46BS6-8",
+    "platform": "PrimeABGB",
+    "capacity": "8GB",
+    "url": "https://www.primeabgb.com/online-price-reviews-india/kingston-kvr56u46bs6-8-valueram-8gb-ddr5-desktop-memory-5600mhz/",
+    "currency": "INR",
+    "allowed_domains": [
+    "primeabgb.com"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    ".product-title",
+    "[itemprop='name']"
+    ],
+    "price_selectors": [
+    ".woocommerce-Price-amount.amount",
+    ".price ins .woocommerce-Price-amount.amount",
+    ".price"
+    ],
+    "in_stock_selectors": [
+    ".stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "out_of_stock_selectors": [
+    ".out-of-stock",
+    ".product-labels",
+    ".availability"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available"
+    ],
+    "out_of_stock_phrases": [
+    "out of stock",
+    "sold out"
+    ]
   }
 ]
