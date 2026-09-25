@@ -1,6 +1,6 @@
 [
   {
-    "id": "gskill-ripjaws-s5-16gb-f5-6000j3648d16gx1-rs5k",
+    "id": "mdcomputers-gskill-ripjaws-s5-16gb-f5-6000j3648d16gx1-rs5k",
     "name": "G.Skill Ripjaws S5 Matte Black 16GB 6000MHz CL36-48 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id": "kingston-fury-renegade-16gb-kf560c32rsa-16",
+    "id": "mdcomputers-kingston-fury-renegade-16gb-kf560c32rsa-16",
     "name": "Kingston Fury Renegade RGB XMP 16GB (16GBx1) DDR5 6000MHz Desktop RAM (Black)",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "id": "kingston-fury-renegade-16gb-kf560c32rwa-16",
+    "id": "mdcomputers-kingston-fury-renegade-16gb-kf560c32rwa-16",
     "name": "Kingston Fury Renegade RGB XMP 16GB (16GBx1) DDR5 6000MHz Desktop RAM (White)",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-rgb-16gb-ax5u6000c4016g-clarwh",
+    "id": "mdcomputers-adata-xpg-lancer-rgb-16gb-ax5u6000c4016g-clarwh",
     "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL40 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "id": "teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cbk",
+    "id": "mdcomputers-teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cbk",
     "name": "TeamGroup T-Force Vulcan 16GB 5200MHz DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "id": "teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cdc016",
+    "id": "mdcomputers-teamgroup-t-force-vulcan-16gb-flbd516g5200hc40cdc016",
     "name": "TeamGroup T-Force Vulcan 16GB (8GBx2) DDR5 5200MHz Desktop RAM (Black)",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-16gb-ax5u6000c4816g-clabk",
+    "id": "mdcomputers-adata-xpg-lancer-16gb-ax5u6000c4816g-clabk",
     "name": "Adata XPG Lancer 16GB 6000MHz CL48 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "id": "kingston-fury-beast-16gb-kf560c40bba-16",
+    "id": "mdcomputers-kingston-fury-beast-16gb-kf560c40bba-16",
     "name": "Kingston Fury Beast RGB 16GB (16GBx1) DDR5 6000MHz Black Desktop RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "id": "adata-16gb-ad5u480016g-s",
+    "id": "mdcomputers-adata-16gb-ad5u480016g-s",
     "name": "Adata 16GB (16GBx1) DDR5 4800MHz",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-neon-16gb-ax5u6000c3016g-clanrsg",
+    "id": "mdcomputers-adata-xpg-lancer-neon-16gb-ax5u6000c3016g-clanrsg",
     "name": "ADATA XPG Lancer Neon RGB 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-rgb-white-16gb-ax5u6000c3016g-clarwh",
+    "id": "mdcomputers-adata-xpg-lancer-rgb-white-16gb-ax5u6000c3016g-clarwh",
     "name": "Adata XPG Lancer RGB White 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "id": "kingston-value-16gb-kvr48u40bs8-16",
+    "id": "mdcomputers-kingston-value-16gb-kvr48u40bs8-16",
     "name": "Kingston Value 16GB (16GBx1) DDR5 4800MHz RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -552,7 +552,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-16gb-ax5u6000c3016g-clabk",
+    "id": "mdcomputers-adata-xpg-lancer-16gb-ax5u6000c3016g-clabk",
     "name": "ADATA XPG Lancer 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-rgb-16gb-ax5u6000c3016g-clarbk",
+    "id": "mdcomputers-adata-xpg-lancer-rgb-16gb-ax5u6000c3016g-clarbk",
     "name": "Adata XPG Lancer RGB 16GB 6000MHz CL30 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "id": "gskill-ripjaws-16gb-f5-5200s3838a16gx1-rs",
+    "id": "mdcomputers-gskill-ripjaws-16gb-f5-5200s3838a16gx1-rs",
     "name": "G.Skill Ripjaws 16GB (16GBx1) DDR5 5200MHz Laptop RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -690,7 +690,7 @@
     ]
   },
   {
-    "id": "hp-x1-16gb-b7rz9aa-acj",
+    "id": "mdcomputers-hp-x1-16gb-b7rz9aa-acj",
     "name": "HP X1 16GB 5600MHz CL46 DDR5 Laptop RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -736,7 +736,7 @@
     ]
   },
   {
-    "id": "evm-16gb-evmt16g6000u88p",
+    "id": "mdcomputers-evm-16gb-evmt16g6000u88p",
     "name": "EVM 16GB 6000Mhz DDR5 Ram",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "id": "crucial-16gb-cb16gu4800",
+    "id": "mdcomputers-crucial-16gb-cb16gu4800",
     "name": "Crucial 16GB 4800MHz CL40 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -828,7 +828,7 @@
     ]
   },
   {
-    "id": "adata-xpg-lancer-white-16gb-ax5u6000c4016g-clawh",
+    "id": "mdcomputers-adata-xpg-lancer-white-16gb-ax5u6000c4016g-clawh",
     "name": "Adata XPG Lancer White 16GB 6000MHz CL40 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "id": "crucial-pro-oc-white-16gb-cp16g60c36u5w",
+    "id": "mdcomputers-crucial-pro-oc-white-16gb-cp16g60c36u5w",
     "name": "Crucial Pro OC White 16GB 6000MHz CL36 DDR5 RAM",
     "platform": "MDComputers",
     "capacity": "16GB",
@@ -920,7 +920,7 @@
     ]
   },
   {
-    "id": "crucial-ddr5-8gb-cb8gu4800",
+    "id": "mdcomputers-crucial-ddr5-8gb-cb8gu4800",
     "name": "Crucial DDR5 8GB 4800MHz",
     "platform": "MDComputers",
     "capacity": "8GB",
@@ -958,7 +958,7 @@
     ]
   },
   {
-    "id": "corsair-ddr5-8gb-cmsx8gx5m1a4800c40",
+    "id": "mdcomputers-corsair-ddr5-8gb-cmsx8gx5m1a4800c40",
     "name": "Corsair Vengeance DDR5 8GB 4800MHz CL40 Laptop Ram",
     "platform": "MDComputers",
     "capacity": "8GB",
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "id":"corsair-vengeance-16gb-cmk16gx5m1b5600c40",
+    "id":"PrimeABGB-corsair-vengeance-16gb-cmk16gx5m1b5600c40",
     "name":"Corsair Vengeance 16GB (1x16GB) DDR5 5600MHz C40 Memory",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "id":"corsair-rgb-16gb-cmh16gx5m1b5200c40",
+    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5200c40",
     "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz C40",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1076,7 +1076,7 @@
     ]
   },
   {
-    "id":"corsair-rgb-16gb-cmh16gx5m1b5200z40",
+    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5200z40",
     "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz CL40",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "id":"corsair-rgb-16gb-cmh16gx5m1b5600c40",
+    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5600c40",
     "name":"Corsair Vengeance RGB Black 16GB 5600MHz DDR5",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1156,7 +1156,7 @@
     ]
   },
   {
-    "id":"crucial-16gb-cb16gu4800",
+    "id":"PrimeABGB-crucial-16gb-cb16gu4800",
     "name":"Crucial 16GB DDR5 4800MHz Desktop Memory CB16GU4800",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "id":"crucial-16gb-cb16gs4800",
+    "id":"PrimeABGB-crucial-16gb-cb16gs4800",
     "name":"Crucial 16GB DDR5 4800MHz CL40 Laptop Memory",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "id":"crucial-pro-16gb-cp16g60c36u5w",
+    "id":"PrimeABGB-crucial-pro-16gb-cp16g60c36u5w",
     "name":"Crucial Pro Overclocking 16GB DDR5 6000MHz White",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "id":"gskill-ripjaws-s5-16gb-f5-6000j3636f16gx1-rs5k",
+    "id":"PrimeABGB-gskill-ripjaws-s5-16gb-f5-6000j3636f16gx1-rs5k",
     "name":"G.Skill Ripjaws S5 16GB DDR5 6000MHz",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "id": "crucial-8gb-ct8g48c40u5",
+    "id": "PrimeABGB-crucial-8gb-ct8g48c40u5",
     "name": "Crucial 8GB (1x8GB) DDR5 4800MHz Memory CT8G48C40U5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1356,7 +1356,7 @@
     ]
   },
   {
-    "id": "crucial-8gb-ct8g56c46u5",
+    "id": "PrimeABGB-crucial-8gb-ct8g56c46u5",
     "name": "Crucial 8GB (1x8GB) DDR5 5600MHz Desktop Memory CT8G56C46U5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "id": "crucial-8gb-laptop-ct8g48c40s5",
+    "id": "PrimeABGB-crucial-8gb-laptop-ct8g48c40s5",
     "name": "Crucial 8GB (8GBx1) DDR5 4800MHz Laptop Memory CT8G48C40S5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1436,7 +1436,7 @@
     ]
   },
   {
-    "id": "kingston-valueram-8gb-kvr56u46bs6-8",
+    "id": "PrimeABGB-kingston-valueram-8gb-kvr56u46bs6-8",
     "name": "Kingston ValueRAM 8GB DDR5 Desktop Memory 5600MHz KVR56U46BS6-8",
     "platform": "PrimeABGB",
     "capacity": "8GB",
