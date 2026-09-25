@@ -1554,5 +1554,52 @@
     "out_of_stock_selectors": [".text-red-600", ".bg-red-500", "[itemprop='availability']", ".stock"],
     "in_stock_phrases": ["in stock", "available", "add to cart"],
     "out_of_stock_phrases": ["sold out", "out of stock", "currently unavailable", "unavailable"]
-  }
+  },
+  {
+    "id": "computech-patriot-pvv516g520c36k",
+    "name": "Patriot Viper Venom 16GB (2 x 8GB) DDR5 5200MHz CL36 UDIMM Desktop Ram",
+    "platform": "Computech Store",
+    "capacity": "16GB",
+    "url": "https://computechstore.in/product/patriot-16gb-viper-venom-5200-memory/",
+    "currency": "INR",
+    "allowed_domains": [
+    "computechstore.in"
+    ],
+    "respect_robots_txt": true,
+    "name_selectors": [
+    "h1",
+    "h3",
+    "[itemprop='name']",
+    "meta[property='og:title']"
+    ],
+    "price_selectors": [
+    "[itemprop='price']",
+    "meta[property='product:price:amount']",
+    ".price",
+    ".text-gray-900.font-black"
+    ],
+    "in_stock_selectors": [
+    ".text-green-600",
+    ".bg-green-500",
+    "[itemprop='availability']",
+    ".stock"
+    ],
+    "out_of_stock_selectors": [
+    ".text-red-600",
+    ".bg-red-500",
+    "[itemprop='availability']",
+    ".stock"
+    ],
+    "in_stock_phrases": [
+    "in stock",
+    "available",
+    "add to cart"
+    ],
+    "out_of_stock_phrases": [
+    "sold out",
+    "out of stock",
+    "currently unavailable",
+    "unavailable"
+  ]
+}
 ]
