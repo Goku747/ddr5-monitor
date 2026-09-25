@@ -996,7 +996,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-corsair-vengeance-16gb-cmk16gx5m1b5600c40",
+    "id":"prime-corsair-vengeance-16gb-cmk16gx5m1b5600c40",
     "name":"Corsair Vengeance 16GB (1x16GB) DDR5 5600MHz C40 Memory",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5200c40",
+    "id":"prime-corsair-rgb-16gb-cmh16gx5m1b5200c40",
     "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz C40",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1076,7 +1076,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5200z40",
+    "id":"prime-corsair-rgb-16gb-cmh16gx5m1b5200z40",
     "name":"Corsair Vengeance RGB 16GB DDR5 5200MHz CL40",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1116,7 +1116,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-corsair-rgb-16gb-cmh16gx5m1b5600c40",
+    "id":"prime-corsair-rgb-16gb-cmh16gx5m1b5600c40",
     "name":"Corsair Vengeance RGB Black 16GB 5600MHz DDR5",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1156,7 +1156,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-crucial-16gb-cb16gu4800",
+    "id":"prime-crucial-16gb-cb16gu4800",
     "name":"Crucial 16GB DDR5 4800MHz Desktop Memory CB16GU4800",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-crucial-16gb-cb16gs4800",
+    "id":"prime-crucial-16gb-cb16gs4800",
     "name":"Crucial 16GB DDR5 4800MHz CL40 Laptop Memory",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-crucial-pro-16gb-cp16g60c36u5w",
+    "id":"prime-crucial-pro-16gb-cp16g60c36u5w",
     "name":"Crucial Pro Overclocking 16GB DDR5 6000MHz White",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "id":"PrimeABGB-gskill-ripjaws-s5-16gb-f5-6000j3636f16gx1-rs5k",
+    "id":"prime-gskill-ripjaws-s5-16gb-f5-6000j3636f16gx1-rs5k",
     "name":"G.Skill Ripjaws S5 16GB DDR5 6000MHz",
     "platform":"PrimeABGB",
     "capacity":"16GB",
@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "id": "PrimeABGB-crucial-8gb-ct8g48c40u5",
+    "id": "prime-crucial-8gb-ct8g48c40u5",
     "name": "Crucial 8GB (1x8GB) DDR5 4800MHz Memory CT8G48C40U5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1356,7 +1356,7 @@
     ]
   },
   {
-    "id": "PrimeABGB-crucial-8gb-ct8g56c46u5",
+    "id": "prime-crucial-8gb-ct8g56c46u5",
     "name": "Crucial 8GB (1x8GB) DDR5 5600MHz Desktop Memory CT8G56C46U5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "id": "PrimeABGB-crucial-8gb-laptop-ct8g48c40s5",
+    "id": "prime-crucial-8gb-laptop-ct8g48c40s5",
     "name": "Crucial 8GB (8GBx1) DDR5 4800MHz Laptop Memory CT8G48C40S5",
     "platform": "PrimeABGB",
     "capacity": "8GB",
@@ -1436,7 +1436,7 @@
     ]
   },
   {
-    "id": "PrimeABGB-kingston-valueram-8gb-kvr56u46bs6-8",
+    "id": "prime-kingston-valueram-8gb-kvr56u46bs6-8",
     "name": "Kingston ValueRAM 8GB DDR5 Desktop Memory 5600MHz KVR56U46BS6-8",
     "platform": "PrimeABGB",
     "capacity": "8GB",
